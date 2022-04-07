@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shoot me a text, ping me on slack or ...
-- || Battle me on https://www.codewars.com/users/SaintALY/badges/small
+- || Battle me on www.codewars.com/r/Pob3Zg
 
 <!---
 SaintALY/SaintALY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
