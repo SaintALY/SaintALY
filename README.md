@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **creating GitHub for tachers**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
