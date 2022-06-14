@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amadeus
-- 👀 I’m interested in beautifying the world with code
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shoot me a text, ping me on slack or ...
+- 👀 I’m interested in building tools for people to simplefy their lifes.
+- 🌱 I’m currently learning how to combine Data Science with Front-End.
+- 💞️ I’m looking to collaborate on machine learning (especially NLP), JS and deep learning.
+- 📫 How to reach me? Just shoot me a text.
 - || Battle me on www.codewars.com/r/Pob3Zg
 
 <!---
