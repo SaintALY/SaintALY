@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on **a comment analysing browser plug in**
 
-- 🌱 I’m currently learning **to combine front-end with machine-learning**
+- 🌱 I’m currently learning **Redux & React**
 
-- 👯 I’m looking to collaborate on **creating GitHub for tachers**
 
 
 <p align="left">
