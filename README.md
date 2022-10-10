@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amadeus</h1>
 <h3 align="center">An aspiring data engineer from Germany</h3>
 
-- 🔭 I’m currently working on **a comment analysing browser plug in**
+- 🔭 I’m currently working on **a comment analysing browser plug in** and a portfolio.
 
 - 🌱 I’m currently learning **Redux & React**
 
