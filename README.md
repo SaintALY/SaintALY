@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amadeus</h1>
 <h3 align="center">Software developer and data science enthusiast.</h3>
 
-- 🔭 I’m currently working on [ChatGPT Messenger](https://gpt-messenger.vercel.app)
+- 🔭 I’m currently working on **Worldviews at Play:** An engaging team-game to challenge your perspectives.
 
 - 🌱 I’m currently learning **Building data science projects within Next.js**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.kitela.de](www.kitela.de)
 
-- 💬 Ask me about **React, AI, maketing**
+- 💬 Ask me about **React, AI, Maketing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
