@@ -3,7 +3,7 @@
 ## I'm a Developer, Creator, and Lifelong Learner!
 
 - 🔭 I'm currently working on **Odyssey of Life** a deep conversation game to challenge a polarizing world.
- -- Check out a prototype here [Odysseyof.life](https://www.odysseyof.life)
+   - Check out a prototype here [Odysseyof.life](https://www.odysseyof.life)
 - 🤵 I also work for [Strato](https://www.strato.de) as a web-developer.
 - 🌱 I'm currently learning real-time databases and web-socket
 - 👯 I'm looking to collaborate on 'AI' games and a building a mesh-messenger
